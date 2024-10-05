@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "189265632688",
+    "project_id": "stellar-5",
+    "storage_bucket": "stellar-5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189265632688:android:bde94e58dbd708a5ff0a75",
+        "android_client_info": {
+          "package_name": "com.stellar.space_game"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAq8hOqlklGQ5b3IDaS0Q8JDgGQRplPKUY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
